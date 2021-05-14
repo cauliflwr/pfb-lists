@@ -1,0 +1,59 @@
+# List of software and services for outbound allow listing
+
+### Azure Portal ###
+# https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-safelist-urls?tabs=public-cloud
+*.aadcdn.microsoftonline-p.com
+*.aka.ms
+*.applicationinsights.io
+*.azure.com
+*.azure.net
+*.azurefd.net
+*.azure-api.net
+*.azuredatalakestore.net
+*.azureedge.net
+*.loganalytics.io
+*.microsoft.com
+*.microsoftonline.com
+*.microsoftonline-p.com
+*.msauth.net
+*.msftauth.net
+*.trafficmanager.net
+*.visualstudio.com
+*.windows.net
+*.windows-int.net
+
+### Arch ###
+*.archlinux.org
+
+### Debian ###
+*.debian.org
+
+### Nextcloud ###
+nextcloud.com
+apps.nextcloud.com
+download.nextcloud.com
+help.nextcloud.com
+
+### Miscellaneous ###
+7-zip.org
+celemony.com
+exactaudiocopy.de
+developers.meethue.com
+handbrake.fr
+mkvtoolnix.download
+openweathermap.org
+*.realvnc.com
+*.tutanota.com
+*.videolan.org
+goldeneye.videolan.org
+web.flux.audio # Flex Audio
+yworks.com
+
+### Raspberry Pi ###
+downloads.raspberrypi.org
+raspbian.raspberrypi.org
+
+### Ubuntu ###
+*.canonical.com
+*.launchpad.net
+*.ubuntu.com
